@@ -6861,6 +6861,7 @@ static const struct LevelUpMove sTreeckoLevelUpLearnset[] = {
     LEVEL_UP_MOVE(33, MOVE_SCREECH),
     LEVEL_UP_MOVE(36, MOVE_ENDEAVOR),
     LEVEL_UP_MOVE(39, MOVE_LEAF_STORM),
+    LEVEL_UP_MOVE(45, MOVE_SOLAR_BEAM),
     LEVEL_UP_END
 };
 
